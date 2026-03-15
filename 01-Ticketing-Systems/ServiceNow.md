@@ -26,7 +26,7 @@ Every ticket follows this structured workflow:
 
 ### 📸 Incident Queue Overview
 
-![All Incidents](..assets/screenshots/All%20INC.png)
+![All Incidents](../assets/screenshots/All%20INC.png)
 
 ---
 
@@ -50,7 +50,7 @@ Every ticket follows this structured workflow:
 
 **Resolution:** Account unlocked in Active Directory. User confirmed successful login.
 
-![INC0010001](..assets/screenshots/INC01.png)
+![INC0010001](../assets/screenshots/INC01.png)
 
 ---
 
@@ -73,7 +73,7 @@ Every ticket follows this structured workflow:
 
 **Resolution:** Escalated to L2 Network Team. Ticket remains open pending investigation.
 
-![INC0010002](..assets/screenshots/INC02.png)
+![INC0010002](../assets/screenshots/INC02.png)
 
 ---
 
@@ -96,7 +96,7 @@ Every ticket follows this structured workflow:
 
 **Resolution:** Issue identified as incorrect shared drive permissions following recent server maintenance. L2 infrastructure team restored access permissions for Finance department group in Active Directory. All 20 users confirmed access restored.
 
-![INC0010003](..assets/screenshots/INC03.png)
+![INC0010003](../assets/screenshots/INC03.png)
 
 ---
 
@@ -119,7 +119,7 @@ Every ticket follows this structured workflow:
 
 **Resolution:** Laptop configured with standard software package. Corporate email created and credentials provided to new hire. Active Directory account created with appropriate group permissions per HR request. User confirmed successful login on first day.
 
-![INC0010004](..assets/screenshots/INC04.png)
+![INC0010004](../assets/screenshots/INC04.png)
 
 ---
 
@@ -142,7 +142,7 @@ Every ticket follows this structured workflow:
 
 **Resolution:** Guided user through Outlook signature setup via File > Options > Mail > Signatures. User confirmed issue resolved.
 
-![INC0010005](..assets/screenshots/INC05.png)
+![INC0010005](../assets/screenshots/INC05.png)
 
 ---
 

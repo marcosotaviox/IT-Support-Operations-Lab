@@ -148,4 +148,4 @@ Every ticket follows this structured workflow:
 
 ### 📊 Incident Management Dashboard
 
-![Dashboard](assets/screenshots/INC%20MANAGEMENT%20DASHBOARD.png)
+![Dashboard](../assets/screenshots/INC%20MANAGEMENT%20DASHBOARD.png)
